@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SH/SH.iml" filepath="$PROJECT_DIR$/SH/SH.iml" />
       <module fileurl="file://$PROJECT_DIR$/SalaryHelper.iml" filepath="$PROJECT_DIR$/SalaryHelper.iml" />
     </modules>
   </component>
